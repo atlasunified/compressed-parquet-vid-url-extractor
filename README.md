@@ -4,13 +4,13 @@ This Python script reads data from a Parquet file, processes it, and extracts vi
 
 The myvidlist.txt is the output example from the compressed.parquet file.
 
-##Please check your myvidlist.txt file for the following types of errors, as I cannot code out the erronous URLs:
+## Please check your myvidlist.txt file for the following types of errors, as I cannot code out the erronous URLs:
 
-###Two dots in the vid-file:
+### Two dots in the vid-file:
 https://bloximages.chicago2.vip.townnews.com/weatherforddemocrat.com/content/tncms/assets/v3/editorial/4/80/4806df6a-59e3-11ec-abbc-d77264de681a/61b3965be45ff.video.mp4
 
-###Commas in the vid-file:
+### Commas in the vid-file:
 https://voanews-vh.akamaihd.net/i/Pangeavideo/2022/01/0/09/09a80000-0a00-0242-1936-08d9e2b39d11,_240p,,_480p,_720p,_1080p,.mp4
 
-###No video file but ends in MP4/vid extension:
+### No video file but ends in MP4/vid extension:
 https://d1.vnecdn.net/giaitri/video/video/web/mp4
